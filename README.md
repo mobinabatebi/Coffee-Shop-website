@@ -1,5 +1,3 @@
-در این پروژه ما به ساخت یک سایت کافی‌شاپ با استفاده از جنگو پرداختیم. اعضا این تیم عبارتند از : مبینا باطبی، ساغر رضانواز، مهسا سرسنگی و رژین صوفی آبادی
-لینک فیگما برای پروژه درس برنامه‌نویسی پیشرفته :
-https://www.figma.com/design/DmY8bjVna4RwYsnmL6WvmF/Untitled?node-id=210-647&t=ElYib4eG5WDxhdMQ-0
-(Group 13)
-می‌توانید برای دنبال کردن روند پروژه به کانبان برد نیز مراجعه کنید.
+# Creating Coffee Shop Website
+
+In this project, we focused on creating a coffee shop website utilizing the Django framework. For our advanced programming course, we have provided a Figma link for the project: [Figma Design] (https://www.figma.com/design/DmY8bjVna4RwYsnmL6WvmF/Untitled?node-id=210-647&t=ElYib4eG5WDxhdMQ-0) .
